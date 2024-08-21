@@ -10,9 +10,7 @@ With **ConciergeAi**, you can effortlessly interact with the newest generative A
 
 **ConciergeAi** gives you access to the latest models available without the need to individually subscribe to every provider and pay monthly fees. With our **pay-as-you-go** strategy you only pay for the tokens/credits you actually use.
 
-{{% alert %}}
 Find out all available models, its providers and prices visiting our [pricing page](https://www.concierge-ai.com/pricing/).
-{{% /alert %}}
 
 Experience the future of AI today with ConciergeAi, where innovation meets convenience.
 
@@ -25,7 +23,7 @@ We're working hard to ensure that our documentation keeps up with our growing co
 
 Users can get support through the following channels:
 
-* **Ask questions** in our [GitHub Discussions](https://github.com/cadugrillo/ConciergeAi/discussions/categories/help) forum.
-* **Log bugs** in [GitHub Issues](https://github.com/cadugrillo/ConciergeAi/issues) so they can be properly managed.
+* **Ask questions** in our [GitHub Discussions](https://github.com/cadugrillo/ConciergeAi-docs/discussions/categories/help) forum.
+* **Log bugs** in [GitHub Issues](https://github.com/cadugrillo/ConciergeAi-docs/issues) so they can be properly managed.
 * **Flag vulnerabilities** by emailing [cadugrillo@gmail.com](mailto:cadugrillo@gmail.com) so we can deal with them immediately.
 * **Flag documentation issues** via our [GitHub documentation channel](https://github.com/cadugrillo/ConciergeAi-docs/issues).
