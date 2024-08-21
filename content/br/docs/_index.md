@@ -1,6 +1,15 @@
-# Welcome
+---
+title: Bem-Vindo
+description: Bem-vindo à página de documentação oficial do ConciergeAi.
+linkTitle: Docs
+no_list: true
+menu: {main: {weight: 30}}
+draft: false
+---
 
-Welcome to ConciergeAi's official documentation site.
+{{% pageinfo color="warning"%}}
+DOCS SECTION UNDER DEVELOPMENT!
+{{% /pageinfo %}}
 
 ## About ConciergeAi
 
@@ -11,7 +20,7 @@ With **ConciergeAi**, you can effortlessly interact with the newest generative A
 **ConciergeAi** gives you access to the latest models available without the need to individually subscribe to every provider and pay monthly fees. With our **pay-as-you-go** strategy you only pay for the tokens/credits you actually use.
 
 {{% alert %}}
-Find out all available models, its providers and prices visiting our [pricing page](https://www.concierge-ai.com/pricing/).
+Find out all available models, its providers and prices visiting our [pricing page](/pricing/).
 {{% /alert %}}
 
 Experience the future of AI today with ConciergeAi, where innovation meets convenience.
@@ -29,3 +38,9 @@ Users can get support through the following channels:
 * **Log bugs** in [GitHub Issues](https://github.com/cadugrillo/ConciergeAi/issues) so they can be properly managed.
 * **Flag vulnerabilities** by emailing [cadugrillo@gmail.com](mailto:cadugrillo@gmail.com) so we can deal with them immediately.
 * **Flag documentation issues** via our [GitHub documentation channel](https://github.com/cadugrillo/ConciergeAi-docs/issues).
+
+
+## Where should I go next?
+
+- [Getting Started](/docs/getting-started/): Get started with ConciergeAi
+- [Release Notes](/docs/release-notes/): Check out what's new with ConciergeAi
