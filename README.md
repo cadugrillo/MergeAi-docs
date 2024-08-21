@@ -1,3 +1,7 @@
+<p align="left">
+  <img title="ConciergeAi" src='https://raw.githubusercontent.com/cadugrillo/ConciergeAi-docs/main/static/favicons/tile70x70.png' /> # Welcome
+</p>
+
 # Welcome
 
 Welcome to ConciergeAi's official documentation site.
