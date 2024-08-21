@@ -1,5 +1,5 @@
-<p align="left">
-  <img title="ConciergeAi" src='https://raw.githubusercontent.com/cadugrillo/ConciergeAi-docs/main/static/favicons/tile70x70.png' /> # Welcome
+<p align="right">
+  <img title="ConciergeAi" src='https://raw.githubusercontent.com/cadugrillo/ConciergeAi-docs/main/static/favicons/tile70x70.png' />
 </p>
 
 # Welcome
