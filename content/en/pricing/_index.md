@@ -33,6 +33,8 @@ With our **pay-as-you-go** strategy you don't need to monthly subscribe to diffe
 | Claude 3.5 Haiku (Soon)| Anthropic                 | ------                 | per 1M Tokens |
 | Claude 3.5 Sonnet      | Anthropic                 | $20.00                 | per 1M Tokens |
 | Claude 3.5 Opus (Soon) | Anthropic                 | ------                 | per 1M Tokens |
+| Gemini 1.5 Flash       | Google                    | $20.00                 | per 1M Tokens |
+| Gemini 1.5 Pro         | Google                    | $1.00                  | per 1M Tokens |
 
 <br><br>
 

@@ -21,7 +21,7 @@ Usando a estratégia **pay-as-you-go** você não precisa se cadastrar em difere
 
 {{% blocks/section color="white" %}}
 
- # Chat Completions
+ # Assistente Virtual
 <br>
 
 | Modelo <img width=200/> | Provedor <img width=400/> | Preço (em US$) <img width=180/> | Unidade <img width=100/> |
@@ -33,6 +33,8 @@ Usando a estratégia **pay-as-you-go** você não precisa se cadastrar em difere
 | Claude 3.5 Haiku (Soon) | Anthropic                 | ------                 | por 1M Tokens |
 | Claude 3.5 Sonnet       | Anthropic                 | $20.00                 | por 1M Tokens |
 | Claude 3.5 Opus (Soon)  | Anthropic                 | ------                 | por 1M Tokens |
+| Gemini 1.5 Flash        | Google                    | $20.00                 | por 1M Tokens |
+| Gemini 1.5 Pro          | Google                    | $1.00                  | por 1M Tokens |
 
 <br><br>
 
@@ -46,7 +48,7 @@ Usando a estratégia **pay-as-you-go** você não precisa se cadastrar em difere
 
 <br><br>
 
- # Talk to Documents
+ # Converse com Documentos
 <br>
 
 | Modelo <img width=200/> | Provedor <img width=400/> | Preço (em US$) <img width=180/> | Unidade <img width=100/> |
@@ -56,7 +58,7 @@ Usando a estratégia **pay-as-you-go** você não precisa se cadastrar em difere
 
 <br><br>
 
-# Text to Speech
+# Texto para Áudio
 <br>
 
 | Modelo <img width=200/> | Provedor <img width=400/> | Preço (em US$) <img width=180/> | Unidade <img width=100/> |
@@ -66,7 +68,7 @@ Usando a estratégia **pay-as-you-go** você não precisa se cadastrar em difere
 
 <br><br>
 
-# Image Generation
+# Criação de Imagem
 <br>
 
 | Modelo <img width=200/> | Provedor <img width=400/> | Preço (em US$) <img width=180/> | Unidade <img width=100/> |
@@ -78,7 +80,7 @@ Usando a estratégia **pay-as-you-go** você não precisa se cadastrar em difere
 
 <br><br>
 
-# Video Generation
+# Criação de Vídeo
 <br>
 
 | Modelo <img width=200/> | Provedor <img width=400/> | Preço (em US$) <img width=180/> | Unidade <img width=100/> |
@@ -87,7 +89,7 @@ Usando a estratégia **pay-as-you-go** você não precisa se cadastrar em difere
 
 <br><br>
 
-# 3D Model Generation
+# Criação de Modelo 3D
 <br>
 
 | Modelo <img width=200/> | Provedor <img width=400/> | Preço (em US$) <img width=180/> | Unidade <img width=100/> |
