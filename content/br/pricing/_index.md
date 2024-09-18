@@ -30,6 +30,8 @@ Usando a estratégia **pay-as-you-go** você não precisa se cadastrar em difere
 | GPT-4                   | OpenAI                    | $40.00                 | por 1M Tokens |
 | GPT-4o                  | OpenAI                    | $20.00                 | por 1M Tokens |
 | GPT-4o mini             | OpenAI                    | $1.00                  | por 1M Tokens |
+| o1 mini (Soon)          | OpenAI                    | $20.00                 | por 1M Tokens |
+| o1 preview (Soon)       | OpenAI                    | $80.00                 | por 1M Tokens |
 | Claude 3.5 Haiku (Soon) | Anthropic                 | ------                 | por 1M Tokens |
 | Claude 3.5 Sonnet       | Anthropic                 | $20.00                 | por 1M Tokens |
 | Claude 3.5 Opus (Soon)  | Anthropic                 | ------                 | por 1M Tokens |
