@@ -8,7 +8,7 @@ description: >
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://prod.concierge-ai.com">
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://dev.concierge-ai.com">
   Start for free <i class="fa-solid fa-play ms-2 "></i>
 </a>
 <p class="lead mt-5"> <b>Your personal assistant for easy access to AI generative tools!<b></p>
