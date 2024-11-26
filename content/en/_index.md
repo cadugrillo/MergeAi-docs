@@ -11,7 +11,7 @@ description: >
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://dev.concierge-ai.com">
   Start for free <i class="fa-solid fa-play ms-2 "></i>
 </a>
-<p class="lead mt-5"> <b>Your personal assistant for easy access to AI generative tools!<b></p>
+<p class="lead mt-5"> <b>Your starting point for easy access to AI generative tools!<b></p>
 
 {{< blocks/link-down color="info" >}}
 
