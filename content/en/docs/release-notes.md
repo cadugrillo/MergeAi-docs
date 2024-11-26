@@ -5,6 +5,16 @@ weight: 2
 draft: false
 ---
 
+## Release 1.3.1
+
+November 26, 2024
+
+### Changes
+
+* New Chat Bubble UI.
+* Multiple major UI/UX improvements.
+* Minor improvements and bug fixing.
+
 ## Release 1.3.0
 
 November 20, 2024
@@ -33,10 +43,10 @@ September 15, 2024
 
 * Added support to Google Gemini Models.
 * Added support to edit and export chat messages.
-* Minor improvements and bug fixing
+* Minor improvements and bug fixing.
 
 ## Release 1.0.0
 
 August 1, 2024
 
-Initial release of ConciergeAi
+Initial release of ConciergeAi.
