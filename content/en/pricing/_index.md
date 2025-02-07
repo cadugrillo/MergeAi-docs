@@ -26,6 +26,8 @@ With our **pay-as-you-go** strategy you don't need to monthly subscribe to diffe
 
 | Model <img width=200/> | Provider <img width=500/> | Price <img width=200/> | Unit <img width=120/> |
 | ---------------------- | ------------------------- | ---------------------- | --------------------- |
+| R1 (reasoner)          | DeepSeek                  | $4.00                  | per 1M Tokens |
+| V3 (chat)              | DeepSeek                  | $0.50                  | per 1M Tokens |
 | GPT-3.5                | OpenAI                    | $2.00                  | per 1M Tokens |
 | GPT-4                  | OpenAI                    | $80.00                 | per 1M Tokens |
 | GPT-4o                 | OpenAI                    | $15.00                 | per 1M Tokens |
@@ -35,8 +37,9 @@ With our **pay-as-you-go** strategy you don't need to monthly subscribe to diffe
 | Claude 3.5 Haiku       | Anthropic                 | $8.00                  | per 1M Tokens |
 | Claude 3.5 Sonnet      | Anthropic                 | $20.00                 | per 1M Tokens |
 | Claude 3.5 Opus (Soon) | Anthropic                 | ------                 | per 1M Tokens |
-| Gemini 1.5 Flash       | Google                    | $20.00                 | per 1M Tokens |
-| Gemini 1.5 Pro         | Google                    | $1.00                  | per 1M Tokens |
+| Gemini 1.5 Pro         | Google                    | $20.00                 | per 1M Tokens |
+| Gemini 1.5 Flash       | Google                    | $1.00                  | per 1M Tokens |
+| Gemini 2.0 Flash       | Google                    | $1.00                  | per 1M Tokens |
 
 <br><br>
 
