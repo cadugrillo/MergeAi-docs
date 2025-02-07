@@ -26,6 +26,8 @@ Usando a estratégia **pay-as-you-go** você não precisa se cadastrar em difere
 
 | Modelo <img width=200/> | Provedor <img width=400/> | Preço (em US$) <img width=180/> | Unidade <img width=100/> |
 | ----------------------- | ------------------------- | ---------------------- | --------------------- |
+| R1 (reasoner)              | DeepSeek                  | $4.00                  | por 1M Tokens |
+| V3 (chat)                  | DeepSeek                  | $0.50                  | por 1M Tokens |
 | GPT-3.5                    | OpenAI                    | $2.00                  | por 1M Tokens |
 | GPT-4                      | OpenAI                    | $80.00                 | por 1M Tokens |
 | GPT-4o                     | OpenAI                    | $15.00                 | por 1M Tokens |
@@ -35,8 +37,9 @@ Usando a estratégia **pay-as-you-go** você não precisa se cadastrar em difere
 | Claude 3.5 Haiku           | Anthropic                 | $8.00                  | por 1M Tokens |
 | Claude 3.5 Sonnet          | Anthropic                 | $20.00                 | por 1M Tokens |
 | Claude 3.5 Opus (Em breve) | Anthropic                 | ------                 | por 1M Tokens |
-| Gemini 1.5 Flash           | Google                    | $20.00                 | por 1M Tokens |
-| Gemini 1.5 Pro             | Google                    | $1.00                  | por 1M Tokens |
+| Gemini 1.5 Pro             | Google                    | $20.00                 | por 1M Tokens |
+| Gemini 1.5 Flash           | Google                    | $1.00                  | por 1M Tokens |
+| Gemini 2.0 Flash           | Google                    | $1.00                  | por 1M Tokens |
 
 <br><br>
 

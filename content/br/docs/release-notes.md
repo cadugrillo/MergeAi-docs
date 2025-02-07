@@ -5,6 +5,18 @@ weight: 2
 draft: false
 ---
 
+## Release 1.3.2
+
+February 7, 2025
+
+### Changes
+
+* Added DeepSeek V3 and R1 models.
+* Added Google Gemini Flash 2.0 model.
+* Improved way to select Model at Chat Completions.
+* Added Export Thread Messages button.
+* Minor improvements and bug fixing.
+
 ## Release 1.3.1
 
 November 26, 2024
