@@ -1,4 +1,4 @@
-baseURL: https://www.concierge-ai.com
+baseURL: https://docs.concierge-ai.com
 title: ConciergeAi
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
@@ -50,14 +50,14 @@ languages:
     languageName: English
     title: ConciergeAi
     params:
-      description: Your personal assistant for easy access to AI generative tools!
+      description: Access the latest models from leading AI providers in just one place.
   # cSpell:disable
   'br':
     languageName: Português
     contentDir: content/br
     title: ConciergeAi
     params:
-      description: Seu assistente pessoal para acesso fácil à ferrramentas generativas baseadas em IA!
+      description: Access the latest models from leading AI providers in just one place.
   #     time_format_default: 02.01.2006
   #     time_format_blog: 02.01.2006
   # cSpell:enable
@@ -92,7 +92,7 @@ params:
     # set taxonomyPageHeader = [] to hide taxonomies on the page headers
     taxonomyPageHeader: 
 
-  privacy_policy: https://policies.google.com/privacy
+  privacy_policy: https://www.concierge-ai.com/privacy/
 
   # First one is picked as the Twitter card image if not set on page.
   # images: [images/project-illustration.png]
@@ -198,13 +198,13 @@ params:
         url: https://github.com/cadugrillo/ConciergeAi-docs
         icon: fab fa-github
       #   desc: GitHub
-      - name: Developer email
-        url: mailto:cadugrillo@gmail.com
-        icon: fa fa-envelope
+    #  - name: Developer email
+    #    url: mailto:cadugrillo@gmail.com
+    #    icon: fa fa-envelope
       #  desc: email
-      - name: Developer website
-        url: https://cadugrillo.com/
-        icon: fa fa-globe
+    #  - name: Developer website
+    #    url: https://cadugrillo.com/
+    #    icon: fa fa-globe
       #  desc: website
 
 module:
