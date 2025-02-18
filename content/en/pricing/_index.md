@@ -2,6 +2,7 @@
 title: Pricing
 linkTitle: Pricing
 menu: {main: {weight: 20}}
+draft: true
 ---
 
 

@@ -1,21 +1,21 @@
 ---
 title: ConciergeAi
 description: >
-  ConciergeAi facilita o seu acesso às mais novas ferramentas baseadas em IA generativa disponíveis atualmente. Acesse os mais novos modelos de IA forncedidos pelos maiores provedores como OpenAI, Anthropic, Stability.ai, etc. Cadastre-se já e receba US$3.00 em créditos para iniciar sua jornada!  
+  Access the latest models from leading AI providers in just one place. No need for monthly subscriptions, pay only when you use.  
 ---
 
-{{< blocks/cover title="Bem-vindo ao ConciergeAi" image_anchor="top" height="full" >}}
+{{< blocks/cover title="ConciergeAi Docs" image_anchor="top" height="full" >}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/br/docs/">
   Saiba mais <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://dev.concierge-ai.com">
+<!-- <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://dev.concierge-ai.com">
   Comece grátis <i class="fa-solid fa-play ms-2 "></i>
-</a>
-<p class="lead mt-5"> <b>Seu ponto de partida para acesso fácil à ferramentas generativas baseadas em IA!<b></p>
+</a> -->
+<!-- <p class="lead mt-5"> <b>Seu ponto de partida para acesso fácil à ferramentas generativas baseadas em IA!<b></p> -->
 
-{{< blocks/link-down color="info" >}}
+<!-- {{< blocks/link-down color="info" >}} -->
 
-{{< /blocks/cover >}}
+<!-- {{< /blocks/cover >}}
 
 
 {{% blocks/lead color="primary" %}}
@@ -96,4 +96,4 @@ Descubra uma extensa coleção de padrões de Prompts para que você possa extra
 </div>
 
 {.h1 .text-center}
-{{% /blocks/section %}}
+{{% /blocks/section %}} -->

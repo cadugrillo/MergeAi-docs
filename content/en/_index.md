@@ -1,21 +1,21 @@
 ---
 title: ConciergeAi
 description: >
-  ConciergeAi provides you easy access to the newest generative AI tools available to date. Access the latest models from leading AI providers like OpenAI, Anthropic, Stability.ai, etc. Signup right now and get $3.00 in credits to start explore!
+  Access the latest models from leading AI providers in just one place. No need for monthly subscriptions, pay only when you use.
 ---
 
-{{< blocks/cover title="Welcome to ConciergeAi" image_anchor="top" height="full" >}}
+{{< blocks/cover title="ConciergeAi Docs" image_anchor="top" height="full" >}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+  Get Started <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://dev.concierge-ai.com">
+<!-- <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://dev.concierge-ai.com">
   Start for free <i class="fa-solid fa-play ms-2 "></i>
-</a>
-<p class="lead mt-5"> <b>Your starting point for easy access to AI generative tools!<b></p>
+</a> -->
+<!-- <p class="lead mt-5"> <b>Your starting point for easy access to AI generative tools!<b></p> -->
 
-{{< blocks/link-down color="info" >}}
+<!-- {{< blocks/link-down color="info" >}} -->
 
-{{< /blocks/cover >}}
+<!-- {{< /blocks/cover >}}
 
 
 {{% blocks/lead color="primary" %}}
@@ -98,4 +98,4 @@ Find an extensive Promp Patterns collection to help you extract the most from th
 </div>
 
 {.h1 .text-center}
-{{% /blocks/section %}}
+{{% /blocks/section %}} -->
