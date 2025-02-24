@@ -5,6 +5,16 @@ weight: 2
 draft: false
 ---
 
+## Release 1.3.3
+
+February 24, 2025
+
+### Changes
+
+* Added x.Ai Grok models.
+* Multiple package updates.
+* Minor improvements and bug fixing.
+
 ## Release 1.3.2
 
 February 7, 2025
