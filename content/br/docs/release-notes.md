@@ -12,6 +12,7 @@ February 24, 2025
 ### Changes
 
 * Added x.Ai Grok models.
+* Added new model Claude 3.7 Sonnet from Anthropic.
 * Multiple package updates.
 * Minor improvements and bug fixing.
 
