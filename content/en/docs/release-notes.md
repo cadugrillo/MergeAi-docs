@@ -5,6 +5,33 @@ weight: 2
 draft: false
 ---
 
+## Release 1.5.0
+
+March 6, 2025
+
+### Changes
+
+* Changed Components Library style to New-York
+* Added option to start chat from splash screen
+* Improved screen area usage (specially at mobile)
+* Added support to OpenAI GPT-4.5 Preview
+* Added support to OpenAI o1 and o3-mini
+* Added support to Gemini model 2.0 flash
+* Updated Prices
+* Updated image models to version 3.5
+* Minor improvements on  UI/UX
+* Bug fixing.
+
+## Release 1.4.0
+
+February 27, 2025
+
+### Changes
+
+* Added persistent Model selection per Thread.
+* Added new voices for Text to Speech.
+* Minor improvements and bug fixing.
+
 ## Release 1.3.3
 
 February 24, 2025
