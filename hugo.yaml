@@ -219,4 +219,4 @@ module:
 
 services:
   googleAnalytics:
-    ID: G-B9VY4PLE68
+    ID: G-MEASUREMENT_ID
