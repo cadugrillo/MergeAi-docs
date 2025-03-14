@@ -1,5 +1,5 @@
-baseURL: https://docs.concierge-ai.com
-title: ConciergeAi
+baseURL: https://docs.askmerge.ai
+title: merge.ai
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
@@ -48,16 +48,16 @@ imaging:
 languages:
   en:
     languageName: English
-    title: ConciergeAi
+    title: merge.ai | Docs
     params:
-      description: Access the latest models from leading AI providers in just one place.
+      description: Access the latest models from leading AI providers in just one place. No need for monthly subscriptions, pay only when you use.
   # cSpell:disable
-  'br':
-    languageName: Português
-    contentDir: content/br
-    title: ConciergeAi
-    params:
-      description: Access the latest models from leading AI providers in just one place.
+  #'br':
+  #  languageName: Português
+  #  contentDir: content/br
+  #  title: merge.ai | Docs
+  #  params:
+  #    description: Access the latest models from leading AI providers in just one place. No need for monthly subscriptions, pay only when you use.
   #     time_format_default: 02.01.2006
   #     time_format_blog: 02.01.2006
   # cSpell:enable
@@ -92,7 +92,7 @@ params:
     # set taxonomyPageHeader = [] to hide taxonomies on the page headers
     taxonomyPageHeader: 
 
-  privacy_policy: https://www.concierge-ai.com/privacy/
+  privacy_policy: https://www.askmerge.ai/privacy/
 
   # First one is picked as the Twitter card image if not set on page.
   # images: [images/project-illustration.png]
@@ -138,8 +138,8 @@ params:
   prism_syntax_highlighting: false
 
   copyright:
-    authors: ConciergeAi Authors #| [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
-    from_year: 2023
+    authors: merge.ai. All rights reserved. #| [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
+    from_year: 2024
 
   # User interface configuration
   ui:
@@ -191,12 +191,12 @@ params:
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
     developer:
       - name: LinkedIn
-        url: https://www.linkedin.com/company/try-concierge-ai
+        url: https://www.linkedin.com/company/merge-ai
         icon: fab fa-linkedin
       #   desc: LinkedIn
-      - name: GitHub
-        url: https://github.com/cadugrillo/ConciergeAi-docs
-        icon: fab fa-github
+    #  - name: GitHub
+    #    url: https://github.com/cadugrillo/ConciergeAi-docs
+    #    icon: fab fa-github
       #   desc: GitHub
     #  - name: Developer email
     #    url: mailto:cadugrillo@gmail.com

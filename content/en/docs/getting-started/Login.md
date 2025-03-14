@@ -1,5 +1,5 @@
 ---
-title: Logging in to ConciergeAi
+title: Logging in to merge.ai
 description:
 # categories: []
 # tags: []
@@ -26,10 +26,10 @@ Follow these steps to log in to your account.
 2. Enter your enrolled email address and you will receive instructions in your inbox on how to reset your password.
 
 {{% alert %}}
-If you have forgotten the email used during enrollment, you will need to contact ConciergeAi [administrator](mailto:cadugrillo@gmail.com) for help.
+If you have forgotten the email used during enrollment, you will need to contact merge.ai [administrator](mailto:contact.merge.ai@gmail.com) for help.
 {{% /alert %}}
 
 ## Where should I go next?
 
-- [Exploring the ConciergeAi Workspace](/docs/getting-started/exploring/)
-- [Using ConciergeAi](/docs/using-conciergeai/)
+- [Exploring the merge.ai Workspace](/docs/getting-started/exploring/)
+- [Using merge.ai](/docs/using-mergeai/)

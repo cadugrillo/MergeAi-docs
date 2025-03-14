@@ -99,4 +99,4 @@ September 15, 2024
 
 August 1, 2024
 
-Initial release of ConciergeAi.
+Initial release of merge.ai.

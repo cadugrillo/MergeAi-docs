@@ -1,16 +1,16 @@
 ---
 title: Frequently Asked Questions
-description: Search the most frequently asked questions about ConciergeAi.
+description: Search the most frequently asked questions about merge.ai.
 no_list: false
 # categories: []
 # tags: []
 weight: 6
 ---
 
-<!-- * [Chat Completions](/docs/using-conciergeai/)
-* [Chat with Documents](/docs/using-conciergeai/)
-* [Text to Speech](/docs/using-conciergeai/)
-* [Image Generation](/docs/using-conciergeai/)
-* [Video Generation](/docs/using-conciergeai/)
-* [Prompt Patterns Explorer](/docs/using-conciergeai/)
-* [Account](/docs/using-conciergeai/) -->
+<!-- * [Chat Completions](/docs/using-merge.ai/)
+* [Chat with Documents](/docs/using-merge.ai/)
+* [Text to Speech](/docs/using-merge.ai/)
+* [Image Generation](/docs/using-merge.ai/)
+* [Video Generation](/docs/using-merge.ai/)
+* [Prompt Patterns Explorer](/docs/using-merge.ai/)
+* [Account](/docs/using-merge.ai/) -->

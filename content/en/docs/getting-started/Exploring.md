@@ -1,14 +1,14 @@
 ---
-title: Exploring the ConciergeAi Workspace
+title: Exploring the merge.ai Workspace
 description:
 # categories: []
 # tags: []
 weight: 3
 ---
 
-The **Chat Completions** area is the first page you see after logging in to ConciergeAi.
+The **Chat Completions** area is the first page you see after logging in to merge.ai.
 
-* The navigation bar (at the left of the screen) is the same on every screen in ConciergeAi. It contains links which give you quick access to many of ConciergeAi's areas.
+* The navigation bar (at the left of the screen) is the same on every screen in merge.ai. It contains links which give you quick access to many of merge.ai's areas.
 
 * The header bar (at the top of the screen) contains area-specific functions plus the Logout and Light/Dark Theme buttons.
 
@@ -37,5 +37,5 @@ The **Chat Completions** area is the first page you see after logging in to Conc
 
 ## Where should I go next?
 
-- [Using ConciergeAi](/docs/using-conciergeai/)
+- [Using merge.ai](/docs/using-mergeai/)
 - [Frequently Asked Questions](/docs/faq/)
