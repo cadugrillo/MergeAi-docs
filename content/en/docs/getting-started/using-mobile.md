@@ -1,14 +1,14 @@
 ---
-title: Using ConciergeAi on a Mobile Device
+title: Using merge.ai on a Mobile Device
 description:
 # categories: []
 # tags: []
 weight: 4
 ---
 
-When you view a ConciergeAi page on a mobile device, such as an iPhone or an Android phone, ConciergeAi will display an optimised version of the page.
+When you view a merge.ai page on a mobile device, such as an iPhone or an Android phone, merge.ai will display an optimised version of the page.
 
-### **What does ConciergeAi look like on a mobile device?**
+### **What does merge.ai look like on a mobile device?**
 
 <div class="container">
   <div class="row">
@@ -27,6 +27,6 @@ When you view a ConciergeAi page on a mobile device, such as an iPhone or an And
   </div>
 </div>
 
-### **What can you do in ConciergeAi on a mobile device?**
+### **What can you do in merge.ai on a mobile device?**
 
-The ConciergeAi mobile interface has been designed to give users access to all features available on the desktop interface.
+The merge.ai mobile interface has been designed to give users access to all features available on the desktop interface.

@@ -3,8 +3,8 @@
 Add styles or override variables from the theme here.
 #8504BC
 */
-$primary: #8504BC;
-$secondary: #3ba269;
+$primary: #8405bb;
+$secondary: #530097;
 
 .td-page-meta__view { display: none !important; }
 .td-page-meta__edit { display: none !important; }
@@ -12,3 +12,10 @@ $secondary: #3ba269;
 .td-page-meta__issue { display: none !important; }
 .td-page-meta__project-issue { display: none !important; }
 .td-page-meta__lastmod { display: none !important; }
+
+.logo-img {
+  max-width: 190px;
+  max-height: 60px;
+  width: auto;
+  height: auto;
+}

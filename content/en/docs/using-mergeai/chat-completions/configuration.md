@@ -13,7 +13,7 @@ The Configuration menu is displayed when you click on the "gear" icon at the Hea
 
 ### **Model**
 
-ConciergeAi is powered by a diverse set of models with different capabilities and price points. You can choose them using the drop-down menu (1).
+Merge.ai is powered by a diverse set of models with different capabilities and price points. You can choose them using the drop-down menu (1).
 
 For price details per Model visit [Pricing](/pricing/).
 
@@ -39,10 +39,10 @@ The default message is **"You are a helpful assistant"** and there are two ways 
 
 * Choose a pre-defined Prompt Pattern from the **"Prompt Patterns"** drop-down menu
 
-For more details on Prompt Patterns visit [Prompt Patterns Explorer](/docs/using-conciergeai/prompt-patterns).
+For more details on Prompt Patterns visit [Prompt Patterns Explorer](/docs/using-mergeai/prompt-patterns).
 
 
 ## Where should I go next?
 
-- [Chat with Documents](/docs/using-conciergeai/chat-with-documents)
+- [Chat with Documents](/docs/using-mergeai/chat-with-documents)
 - [Frequently Asked Questions](/docs/faq/)

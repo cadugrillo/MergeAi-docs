@@ -26,5 +26,5 @@ Remember to verify your e-mail address by clicking on the link sent to the e-mai
 
 ## Where should I go next?
 
-- [Exploring the ConciergeAi Workspace](/docs/getting-started/exploring/)
-- [Using ConciergeAi](/docs/using-conciergeai/)
+- [Exploring the merge.ai Workspace](/docs/getting-started/exploring/)
+- [Using merge.ai](/docs/using-mergeai/)

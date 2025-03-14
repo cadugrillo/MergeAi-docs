@@ -11,7 +11,7 @@ Chat Completions is where you interact via text, or image (when available) with 
 
 * The easiest way to start is by selecting a Thread (by clicking on it) and start typing your messages. If you don't have any Threads, create one by using the "add" button (1).
 
-* If you want to change the model or advanced options click on the "gear" (2). More details at [Configuring Chat Completions](/docs/using-conciergeai/chat-completions/configuration).
+* If you want to change the model or advanced options click on the "gear" (2). More details at [Configuring Chat Completions](/docs/using-mergeai/chat-completions/configuration).
 
 <figure><img src="/docs/using-conciergeai/chat-completions/overview.png" alt="" width="900" style="border: 1px solid #555;"><figcaption></figcaption></figure>
 
@@ -40,7 +40,7 @@ Each chat message has a role (either system, user, or assistant) and content.
 By default, the system message is "You are a helpful assistant". You can define instructions in the user message, but the instructions set in the system message are more effective. You can only set one system message per Thread.
 {{% /alert %}}
 
-To customize the system message and other advanced options check [Configuring Chat Completions](/docs/using-conciergeai/chat-completions/configuration).
+To customize the system message and other advanced options check [Configuring Chat Completions](/docs/using-mergeai/chat-completions/configuration).
 
 ### **Model**
 
@@ -48,7 +48,7 @@ You can check the selected LLM Model by looking at the Selected Model Chip (7).
 
 Differently from the system message wich is unique per Thread, the LLM Model can be changed at any time. That means you can start a chat with Model "A" and continue the same chat with Model "B".
 
-To customize the LLM Model and other advanced options check [Configuring Chat Completions](/docs/using-conciergeai/chat-completions/configuration).
+To customize the LLM Model and other advanced options check [Configuring Chat Completions](/docs/using-mergeai/chat-completions/configuration).
 
 ### **Pricing**
 
@@ -59,5 +59,5 @@ For price details per Model visit [Pricing](/pricing/).
 
 ## Where should I go next?
 
-- [Configuring Chat Completions](/docs/using-conciergeai/chat-completions/configuration)
+- [Configuring Chat Completions](/docs/using-mergeai/chat-completions/configuration)
 - [Frequently Asked Questions](/docs/faq/)
