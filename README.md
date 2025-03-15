@@ -6,7 +6,7 @@
 
 Welcome to merge.ai official documentation site.
 
-## About ConciergeAi
+## About merge.ai
 
 **merge.ai** is your gateway to the latest advancements in generative AI technology. Our app offers seamless access to cutting-edge models from top-tier AI providers, including OpenAI, Anthropic, Stability.ai, and more.
 
