@@ -1,5 +1,5 @@
 <p align="right">
-  <img title="merge.ai" src='https://raw.githubusercontent.com/cadugrillo/assets/main/Icone_Merge.png' />
+  <img title="merge.ai" src='https://raw.githubusercontent.com/cadugrillo/assets/main/Icone_Merge.png' width="200" height="200"/>
 </p>
 
 # Welcome
